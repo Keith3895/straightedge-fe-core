@@ -1,4 +1,3 @@
-![Build](https://travis-ci.org/Keith3895/financeTracker.svg?branch=master)
 [![npm](https://img.shields.io/badge/npm-6.14.4-green.svg)](https://www.npmjs.com/)
 
 # Straightedge-fe-core
