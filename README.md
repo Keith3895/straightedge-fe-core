@@ -2,15 +2,15 @@
 
 # Straightedge-fe-core
 
-Straightedge-fe is the event sniffer and event logger module for straightedge. The module hooks with the DOM and triggers events on the window object of the DOM. These events are meant only for [straight-edge-fe]().
+Straightedge-fe is the event sniffer and event logger module for straightedge. The module hooks with the DOM and triggers events on the window object of the DOM. These events are meant only for [straight-edge-fe](https://github.com/Keith3895/straightedge-fe).
 
 ### Installation
 The Install instructions are only to install the source code and to run it locally for development. When the Straightedge modules import this as a dependency the installation steps are not the same.
 1) clone the repository:
     - https:
-    ``https://github.com/Keith3895/straightedge.git``
+    ``https://github.com/Keith3895/straightedge-fe-core.git``
     - ssh:
-    ``git@github.com:Keith3895/straightedge.git``
+    ``git@github.com:Keith3895/straightedge-fe-core.git``
 2) install dependencies:
     ``npm install``
 3) build the application:
